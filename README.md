@@ -1,6 +1,11 @@
 # sentiment-analysis
 Basic Sentiment Analysis with Transformers and Streamlit
 
+## Idea:
+Make Sentiment Analysis Accessible.
+
+Upload. Click. Download. Done.
+
 ## Usage:
 
 Clone the repository
@@ -22,3 +27,6 @@ Run the app with Streamlit
 ```
 streamlit run app.py
 ```
+
+## Future
+- Add UI for Transfer Learning
