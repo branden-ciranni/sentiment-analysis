@@ -29,4 +29,4 @@ streamlit run app.py
 ```
 
 ## Future
-- Add UI for Transfer Learning
+- Add UI for Fine Tuning to your dataset
